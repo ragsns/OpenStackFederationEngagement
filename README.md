@@ -1,5 +1,4 @@
-# OpenStackFederationEngagement
-OpenStack Meetup Federation Engagement
+# OpenStack Federation Engagement
 
 This is a repository to track engagement of EMC Federation with the OpenStack Meetups. The objectives are simple
 
