@@ -10,7 +10,7 @@ This is a partial list of the topics that might be interesting at meetups. Some 
 |Sergey Schindler & Eoghan Kelleher| Talk|	Cloud Storage|	Using Cinder with EMC Block Storage Systems: Reference Architecture| TBD |
 |Tim Hinrichs, Serg Melikyan| Talk|Operations|	Governing (Murano) Application Deployment with (Congress) Policy| TBD|
 |Sean Roberts, Sharmail Tahir, Tim Hinrichs|	Talk	|Planning your OpenStack Project	|Leveraging Congress for Policy Management| TBD|
-|Chris Ricker, Mark Voelker		|Talk|User Stories|	DevOps for OpenStack |In Production (or: 'How I Learned to Quit Worrying and Love CI/CD')| TBD|
+|Chris Ricker, Mark Voelker		|Talk|User Stories|	DevOps for OpenStack in Production (or: 'How I Learned to Quit Worrying and Love CI/CD')| TBD|
 |Shamail Tahir & Sriram Subramanian & Gerd Prüßmann|	Talk	|Plan Your OpenStack Project|	Highly Available OpenStack: From Theory to Reality| TBD|
 |Drew Smith	|Talk	|Related OSS Projects|	Architecting OpenStack Monitoring for Next-Generation Functionality| TBD|
 |Somik|	Talk	|Related OSS Projects	|Open Virtual Network (OVN) for OpenStack (Justin P/Ben P.)| TBD|
