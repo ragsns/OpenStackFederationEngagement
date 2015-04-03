@@ -10,5 +10,5 @@ We will need a minimum of 2-3 weeks to revise content, communication and coordin
 | Speaker(s)| Session Type |	Track |Title |Brief Description| Comment|
 | ------------- |-------------| -----| ------| ---|----|
 |Rags Srinivas|	HOL|	PaaS|	Cloud Foundry on OpenStack | TBD| Content will be available after OpenStack summit|
-|Eric Lopez, Aaaron Rosen, Janet Yu| HOL | OpenStack Networking Advanced Hands-on Lab | TBD| Content will be available after OpenStack summit - lot of signups already for OpenStack summit|
+|Eric Lopez, Aaaron Rosen, Janet Yu| HOL | Neutron | OpenStack Networking Advanced Hands-on Lab | TBD| Content will be available after OpenStack summit - lot of signups already for OpenStack summit|
 |Randy Bias| Talk| Storage| ScaleIO: Deep Dive| TBD|Content not available|
