@@ -19,4 +19,3 @@ Thanks are due to the following advisors
 
 We will plan on expanding this to the larger OpenStack community based on the initial success (or otherwise) of the program.
 
-Please contact [us](mailto:raghavan.srinivas@emc.com) to make changes or to be added to modify the repository (I'll need your github handle).
