@@ -13,8 +13,6 @@ We are targeting a few [Meetups](TargetMeetups) initially based on the membershi
 Thanks are due to the following advisors
 
 * Randy Bias, exceutive co-sponsor
-* Kenneth Hui
-* Sean Roberts (emeritus)
 * Shamail Tahir
 * Sean Winn
 * Andrew Shafer
